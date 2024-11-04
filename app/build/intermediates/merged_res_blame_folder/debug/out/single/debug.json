@@ -1,0 +1,186 @@
+[
+    {
+        "merged": "C:\\Users\\WILMER DAVID\\.gradle\\daemon\\8.0\\com.example.tododemo.app-merged_res-28:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\WILMER DAVID\\.gradle\\daemon\\8.0\\com.example.tododemo.app-main-30:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\WILMER DAVID\\.gradle\\daemon\\8.0\\com.example.tododemo.app-merged_res-28:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\WILMER DAVID\\.gradle\\daemon\\8.0\\com.example.tododemo.app-main-30:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\WILMER DAVID\\.gradle\\daemon\\8.0\\com.example.tododemo.app-merged_res-28:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\WILMER DAVID\\.gradle\\daemon\\8.0\\com.example.tododemo.app-main-30:\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\WILMER DAVID\\.gradle\\daemon\\8.0\\com.example.tododemo.app-merged_res-28:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\WILMER DAVID\\.gradle\\daemon\\8.0\\com.example.tododemo.app-main-30:\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\WILMER DAVID\\.gradle\\daemon\\8.0\\com.example.tododemo.app-merged_res-28:\\drawable_baseline_calendar.xml.flat",
+        "source": "C:\\Users\\WILMER DAVID\\.gradle\\daemon\\8.0\\com.example.tododemo.app-main-30:\\drawable\\baseline_calendar.xml"
+    },
+    {
+        "merged": "C:\\Users\\WILMER DAVID\\.gradle\\daemon\\8.0\\com.example.tododemo.app-merged_res-28:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\WILMER DAVID\\.gradle\\daemon\\8.0\\com.example.tododemo.app-main-30:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\WILMER DAVID\\.gradle\\daemon\\8.0\\com.example.tododemo.app-merged_res-28:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\WILMER DAVID\\.gradle\\daemon\\8.0\\com.example.tododemo.app-main-30:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\WILMER DAVID\\.gradle\\daemon\\8.0\\com.example.tododemo.app-merged_res-28:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\WILMER DAVID\\.gradle\\daemon\\8.0\\com.example.tododemo.app-main-30:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\WILMER DAVID\\.gradle\\daemon\\8.0\\com.example.tododemo.app-merged_res-28:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\WILMER DAVID\\.gradle\\daemon\\8.0\\com.example.tododemo.app-main-30:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\WILMER DAVID\\.gradle\\daemon\\8.0\\com.example.tododemo.app-merged_res-28:\\drawable_ic_setting.xml.flat",
+        "source": "C:\\Users\\WILMER DAVID\\.gradle\\daemon\\8.0\\com.example.tododemo.app-main-30:\\drawable\\ic_setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\WILMER DAVID\\.gradle\\daemon\\8.0\\com.example.tododemo.app-merged_res-28:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\WILMER DAVID\\.gradle\\daemon\\8.0\\com.example.tododemo.app-main-30:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\WILMER DAVID\\.gradle\\daemon\\8.0\\com.example.tododemo.app-merged_res-28:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\WILMER DAVID\\.gradle\\daemon\\8.0\\com.example.tododemo.app-main-30:\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\WILMER DAVID\\.gradle\\daemon\\8.0\\com.example.tododemo.app-merged_res-28:\\drawable_ic_add_icon.xml.flat",
+        "source": "C:\\Users\\WILMER DAVID\\.gradle\\daemon\\8.0\\com.example.tododemo.app-main-30:\\drawable\\ic_add_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\WILMER DAVID\\.gradle\\daemon\\8.0\\com.example.tododemo.app-merged_res-28:\\layout_activity_create.xml.flat",
+        "source": "C:\\Users\\WILMER DAVID\\.gradle\\daemon\\8.0\\com.example.tododemo.app-main-30:\\layout\\activity_create.xml"
+    },
+    {
+        "merged": "C:\\Users\\WILMER DAVID\\.gradle\\daemon\\8.0\\com.example.tododemo.app-merged_res-28:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\WILMER DAVID\\.gradle\\daemon\\8.0\\com.example.tododemo.app-main-30:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\WILMER DAVID\\.gradle\\daemon\\8.0\\com.example.tododemo.app-merged_res-28:\\drawable_button_background.xml.flat",
+        "source": "C:\\Users\\WILMER DAVID\\.gradle\\daemon\\8.0\\com.example.tododemo.app-main-30:\\drawable\\button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\WILMER DAVID\\.gradle\\daemon\\8.0\\com.example.tododemo.app-merged_res-28:\\drawable_shape.xml.flat",
+        "source": "C:\\Users\\WILMER DAVID\\.gradle\\daemon\\8.0\\com.example.tododemo.app-main-30:\\drawable\\shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\WILMER DAVID\\.gradle\\daemon\\8.0\\com.example.tododemo.app-merged_res-28:\\menu_contxt_menu.xml.flat",
+        "source": "C:\\Users\\WILMER DAVID\\.gradle\\daemon\\8.0\\com.example.tododemo.app-main-30:\\menu\\contxt_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\WILMER DAVID\\.gradle\\daemon\\8.0\\com.example.tododemo.app-merged_res-28:\\menu_option_menu.xml.flat",
+        "source": "C:\\Users\\WILMER DAVID\\.gradle\\daemon\\8.0\\com.example.tododemo.app-main-30:\\menu\\option_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\WILMER DAVID\\.gradle\\daemon\\8.0\\com.example.tododemo.app-merged_res-28:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\WILMER DAVID\\.gradle\\daemon\\8.0\\com.example.tododemo.app-main-30:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\WILMER DAVID\\.gradle\\daemon\\8.0\\com.example.tododemo.app-merged_res-28:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\WILMER DAVID\\.gradle\\daemon\\8.0\\com.example.tododemo.app-main-30:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\WILMER DAVID\\.gradle\\daemon\\8.0\\com.example.tododemo.app-merged_res-28:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\WILMER DAVID\\.gradle\\daemon\\8.0\\com.example.tododemo.app-main-30:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\WILMER DAVID\\.gradle\\daemon\\8.0\\com.example.tododemo.app-merged_res-28:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\WILMER DAVID\\.gradle\\daemon\\8.0\\com.example.tododemo.app-main-30:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\WILMER DAVID\\.gradle\\daemon\\8.0\\com.example.tododemo.app-merged_res-28:\\drawable_half_shape.xml.flat",
+        "source": "C:\\Users\\WILMER DAVID\\.gradle\\daemon\\8.0\\com.example.tododemo.app-main-30:\\drawable\\half_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\WILMER DAVID\\.gradle\\daemon\\8.0\\com.example.tododemo.app-merged_res-28:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\WILMER DAVID\\.gradle\\daemon\\8.0\\com.example.tododemo.app-main-30:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\WILMER DAVID\\.gradle\\daemon\\8.0\\com.example.tododemo.app-merged_res-28:\\drawable_edit_texr_background.xml.flat",
+        "source": "C:\\Users\\WILMER DAVID\\.gradle\\daemon\\8.0\\com.example.tododemo.app-main-30:\\drawable\\edit_texr_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\WILMER DAVID\\.gradle\\daemon\\8.0\\com.example.tododemo.app-merged_res-28:\\drawable_todologo1.png.flat",
+        "source": "C:\\Users\\WILMER DAVID\\.gradle\\daemon\\8.0\\com.example.tododemo.app-main-30:\\drawable\\todologo1.png"
+    },
+    {
+        "merged": "C:\\Users\\WILMER DAVID\\.gradle\\daemon\\8.0\\com.example.tododemo.app-merged_res-28:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\WILMER DAVID\\.gradle\\daemon\\8.0\\com.example.tododemo.app-main-30:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\WILMER DAVID\\.gradle\\daemon\\8.0\\com.example.tododemo.app-merged_res-28:\\layout_add_view.xml.flat",
+        "source": "C:\\Users\\WILMER DAVID\\.gradle\\daemon\\8.0\\com.example.tododemo.app-main-30:\\layout\\add_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\WILMER DAVID\\.gradle\\daemon\\8.0\\com.example.tododemo.app-merged_res-28:\\layout_activity_update.xml.flat",
+        "source": "C:\\Users\\WILMER DAVID\\.gradle\\daemon\\8.0\\com.example.tododemo.app-main-30:\\layout\\activity_update.xml"
+    },
+    {
+        "merged": "C:\\Users\\WILMER DAVID\\.gradle\\daemon\\8.0\\com.example.tododemo.app-merged_res-28:\\layout_activity_splash_screen.xml.flat",
+        "source": "C:\\Users\\WILMER DAVID\\.gradle\\daemon\\8.0\\com.example.tododemo.app-main-30:\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\WILMER DAVID\\.gradle\\daemon\\8.0\\com.example.tododemo.app-merged_res-28:\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\WILMER DAVID\\.gradle\\daemon\\8.0\\com.example.tododemo.app-main-30:\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\WILMER DAVID\\.gradle\\daemon\\8.0\\com.example.tododemo.app-merged_res-28:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\WILMER DAVID\\.gradle\\daemon\\8.0\\com.example.tododemo.app-main-30:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "com.example.tododemo.app-merged_res-28:/layout_activity_main.xml.flat",
+        "source": "com.example.tododemo.app-main-30:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\WILMER DAVID\\.gradle\\daemon\\8.0\\com.example.tododemo.app-merged_res-28:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\WILMER DAVID\\.gradle\\daemon\\8.0\\com.example.tododemo.app-main-30:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\WILMER DAVID\\.gradle\\daemon\\8.0\\com.example.tododemo.app-merged_res-28:\\color_chip_background_color.xml.flat",
+        "source": "C:\\Users\\WILMER DAVID\\.gradle\\daemon\\8.0\\com.example.tododemo.app-main-30:\\color\\chip_background_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\WILMER DAVID\\.gradle\\daemon\\8.0\\com.example.tododemo.app-merged_res-28:\\drawable_baseline_task_alt_24.xml.flat",
+        "source": "C:\\Users\\WILMER DAVID\\.gradle\\daemon\\8.0\\com.example.tododemo.app-main-30:\\drawable\\baseline_task_alt_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\WILMER DAVID\\.gradle\\daemon\\8.0\\com.example.tododemo.app-merged_res-28:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\WILMER DAVID\\.gradle\\daemon\\8.0\\com.example.tododemo.app-main-30:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\WILMER DAVID\\.gradle\\daemon\\8.0\\com.example.tododemo.app-merged_res-28:\\drawable_ic_splashscreen.xml.flat",
+        "source": "C:\\Users\\WILMER DAVID\\.gradle\\daemon\\8.0\\com.example.tododemo.app-main-30:\\drawable\\ic_splashscreen.xml"
+    },
+    {
+        "merged": "C:\\Users\\WILMER DAVID\\.gradle\\daemon\\8.0\\com.example.tododemo.app-merged_res-28:\\drawable_bg_btn_delete.xml.flat",
+        "source": "C:\\Users\\WILMER DAVID\\.gradle\\daemon\\8.0\\com.example.tododemo.app-main-30:\\drawable\\bg_btn_delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\WILMER DAVID\\.gradle\\daemon\\8.0\\com.example.tododemo.app-merged_res-28:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\WILMER DAVID\\.gradle\\daemon\\8.0\\com.example.tododemo.app-main-30:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\WILMER DAVID\\.gradle\\daemon\\8.0\\com.example.tododemo.app-merged_res-28:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\WILMER DAVID\\.gradle\\daemon\\8.0\\com.example.tododemo.app-main-30:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\WILMER DAVID\\.gradle\\daemon\\8.0\\com.example.tododemo.app-merged_res-28:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\WILMER DAVID\\.gradle\\daemon\\8.0\\com.example.tododemo.app-main-30:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\WILMER DAVID\\.gradle\\daemon\\8.0\\com.example.tododemo.app-merged_res-28:\\layout_activity_signup.xml.flat",
+        "source": "C:\\Users\\WILMER DAVID\\.gradle\\daemon\\8.0\\com.example.tododemo.app-main-30:\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\WILMER DAVID\\.gradle\\daemon\\8.0\\com.example.tododemo.app-merged_res-28:\\drawable_baseline_time.xml.flat",
+        "source": "C:\\Users\\WILMER DAVID\\.gradle\\daemon\\8.0\\com.example.tododemo.app-main-30:\\drawable\\baseline_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\WILMER DAVID\\.gradle\\daemon\\8.0\\com.example.tododemo.app-merged_res-28:\\color_chip_text_color.xml.flat",
+        "source": "C:\\Users\\WILMER DAVID\\.gradle\\daemon\\8.0\\com.example.tododemo.app-main-30:\\color\\chip_text_color.xml"
+    }
+]
